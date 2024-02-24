@@ -17,6 +17,17 @@
 
 @media screen and (min-width: 992px){
     #login{
-        
+        width: 990px;
+    
+        }
+     #imagem{
+        float: left;
+        width: 50%;
+        height: 100%;
+        }
+       #formulario{
+        float: right;
+        width: 50%;
+        }
+    
     }
-}
